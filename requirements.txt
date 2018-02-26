@@ -1,2 +1,6 @@
 nltk==3.2.4
 pandas==0.19.0
+xgboost==0.6
+numpy==1.13.1+mkl
+pandas-ml==0.4.0
+scikit-learn==0.19.0
